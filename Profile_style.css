@@ -1,0 +1,62 @@
+h1 
+{
+    text-align: center;
+    background-color: darkcyan;
+}
+body 
+{
+    padding: 10px;
+    border: 100px solid rgb(10, 0, 10) 
+    margin-top: 0px;
+    margin-left: 30px;
+    background-color :rgb(216, 190, 230)
+}
+.center_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    
+}
+.attachment{
+    
+    text-align: center;
+      
+}
+.topsentences{
+    text-align: center;
+    font-size: large;
+}
+
+#nospace{
+    padding: 0px;
+    margin: 20px;
+}
+no_space{
+    padding: 10px;
+    margin: 10px;
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+.fa-facebook {
+    
+    background: #1858e2;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #1672b8;
+    color: white;
+    size: 20px;
+    
+  }
+  .fa-linkedin {
+    background: #1858e2;
+    color: white;
+  }
